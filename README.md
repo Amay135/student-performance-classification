@@ -30,6 +30,7 @@ student-performance-classification/
 │
 ├── requirements.txt                    # Daftar library yang dibutuhkan
 └── README.md
+```
 
 ## Technologies Used
 
@@ -44,7 +45,6 @@ student-performance-classification/
 ---
 
 ## Dataset
-
 
 **StudentsPerformance.csv**
 
@@ -61,7 +61,6 @@ It contains information about:
 
 ---
 
-
 ## 📈 Machine Learning Workflow
 
 1. Data Collection
@@ -77,4 +76,7 @@ It contains information about:
 ## 👨‍💻 Author
 
 **Amay**
+
+```
+
 ```
